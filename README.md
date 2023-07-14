@@ -5,8 +5,6 @@ We then propose an application allowing the control of the devices constituting 
 - Installation
 - Usage
 - Features
-- Contributing
-- License
 
 ## Installation
 DAMS is the software component of the HABBIBAL air defense system. Simply launch the executable file and follow the instructions to install the software.
@@ -26,9 +24,3 @@ The system shall be able to estimate the distance and position of the detected U
 The system must provide graphical interfaces that allow the management of hardware equipment such as camera, positioner, gain etc...   
 - Privilege management 
 The system must be able to distinguish and classify users and provide services according to these types as administrator, user, observer.  
-
-## Contributing
-If you want others to contribute to your project, provide guidelines on how to do so. Include information about the preferred workflow, coding standards, and any other relevant details.
-
-## License
-Specify the license under which your project is distributed. For example, you can use the MIT License, GNU General Public License (GPL), or any other open-source license.
