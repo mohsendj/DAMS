@@ -9,7 +9,8 @@ We then propose an application allowing the control of the devices constituting 
 - License
 
 ## Installation
-Explain how to install or set up your project. Include any dependencies that need to be installed and provide step-by-step instructions.
+DAMS is the software component of the HABBIBAL air defense system. Simply launch the executable file and follow the instructions to install the software.
+For hardware installation, see the HANNIBAL ADS readme file.
 
 ## Usage
 Describe how to use your project. You can include code examples, command-line instructions, or any other relevant information to help users understand how your project works.
