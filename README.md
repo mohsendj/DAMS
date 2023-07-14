@@ -2,11 +2,11 @@
 Following our research, we found that all the applications available on the market are very expensive and demanding.
 We then propose an application allowing the control of the devices constituting a multimodal platform of monitoring and observation Sol2Air in real time, allowing the administrator to manage the users and to consult and make the follow-up of the data in real time.
 ## Table of Contents
-Installation
-Usage
-Features
-Contributing
-License
+- Installation
+- Usage
+- Features
+- Contributing
+- License
 
 ## Installation
 Explain how to install or set up your project. Include any dependencies that need to be installed and provide step-by-step instructions.
