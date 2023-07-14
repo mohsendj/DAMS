@@ -1,5 +1,5 @@
 # DAMS
-Data Analysis and Management Software
+##Data Analysis and Management Software
 A brief description or introduction to your project goes here.
 
 Table of Contents
